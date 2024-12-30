@@ -43,6 +43,7 @@ for idx, item in enumerate(data):  # Trabajar con todos los objetos
                     "Otros. "
                     "Tu tarea es leer el título y contenido proporcionados y seleccionar la categoría más adecuada, presta muchísima atención"
                     "de esta lista. Responde únicamente con el nombre de la categoría, sin explicaciones ni comentarios adicionales."
+                    "Solo le puedes dar una única categoría a cada objeto"
                 ),
             },
             {
